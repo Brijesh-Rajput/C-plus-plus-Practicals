@@ -1,0 +1,17 @@
+/*
+Write a recursive function to
+i. print first N natural numbers
+ii. print first N natural numbers in reverse order
+iii. print first N odd natural numbers
+iv. print first N odd natural numbers in reverse order
+v. print first N even natural numbers
+vi. print first N even natural numbers in reverse order
+vii. print squares of first N natural numbers
+viii. to calculate sum of first N natural numbers
+ix. to calculate sum of squares of fist N natural numbers
+x. to calculate sum of first n odd natural numbers
+xi. to calculate sum of first N even natural numbers
+xii. to calculate factorial of a number
+xiii. to print binary of a decimal number
+xiv. to print octal of a decimal number
+*/
